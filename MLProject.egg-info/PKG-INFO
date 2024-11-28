@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: MLProject
+Version: 0.0.1
+Author: Pallavi J
+Author-email: pallaviJagre123@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: seaborn
