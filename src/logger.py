@@ -15,6 +15,6 @@ logging.basicConfig(
 
 )
 
-# just to check if loggging.py is gettig executed
+# just to check if logger.py is gettig executed
 # if __name__=="__main__":
 #     logging.info("Logging has started.")
